@@ -4,7 +4,7 @@ This repository contains the code for the ATP-Pred framework, which is used for 
 
 PDNAPred relies on two large-scale pre-trained protein language models: Ankh and ProstT5. These models are implemented using Hugging Face's Transformers library and PyTorch. Please make sure to install the required dependencies beforehand.
 
-- ESM-2: [https://huggingface.co/ElnaggarLab/ankh-large/tree/main](https://huggingface.co/ElnaggarLab/ankh-large/tree/main)
+- Ankh: [https://huggingface.co/ElnaggarLab/ankh-large/tree/main](https://huggingface.co/ElnaggarLab/ankh-large/tree/main)
 - ProstT5: [https://huggingface.co/Rostlab/prot_t5_xl_uniref50](https://huggingface.co/Rostlab/ProstT5/tree/main)
 
 # Usage

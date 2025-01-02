@@ -2,16 +2,15 @@
 
 This repository contains the code for the ATP-Pred framework, which is used for predicting protein-ATP binding residues. 
 
-PDNAPred relies on two large-scale pre-trained protein language models: ESM-2 and ProtT5. These models are implemented using Hugging Face's Transformers library and PyTorch. Please make sure to install the required dependencies beforehand.
+PDNAPred relies on two large-scale pre-trained protein language models: Ankh and ProstT5. These models are implemented using Hugging Face's Transformers library and PyTorch. Please make sure to install the required dependencies beforehand.
 
-- ESM-2: [https://huggingface.co/facebook/esm2_t12_35M_UR50D](https://huggingface.co/facebook/esm2_t12_35M_35M_UR50D)
-- ProtT5: https://huggingface.co/Rostlab/prot_t5_xl_uniref50
+- ESM-2: [https://huggingface.co/ElnaggarLab/ankh-large/tree/main](https://huggingface.co/ElnaggarLab/ankh-large/tree/main)
+- ProstT5: [https://huggingface.co/Rostlab/prot_t5_xl_uniref50](https://huggingface.co/Rostlab/ProstT5/tree/main)
 
 # Usage
 
 We have placed the complete test code in the inferrence.py file, the only thing that needs to be done is to download the weights and modify the path.
 
-Our model can be download from :https://drive.google.com/drive/folders/1SEXdnmO78jTQg8bYR_Atum47AtVQIZBx?usp=drive_link
 
 So, you can test only one sequence.
 

@@ -11,6 +11,7 @@ PDNAPred relies on two large-scale pre-trained protein language models: Ankh and
 
 We have placed the complete test code in the inferrence.py file, the only thing that needs to be done is to download the weights and modify the path.
 
+The trained model can be found in :https://drive.google.com/drive/folders/1SEXdnmO78jTQg8bYR_Atum47AtVQIZBx
 
 So, you can test only one sequence.
 

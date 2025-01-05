@@ -15,6 +15,10 @@ The trained model can be found in :https://drive.google.com/drive/folders/1SEXdn
 
 So, you can test only one sequence.
 
+In addition, we also provide Colab Notebook, the Colab notebook can be accessed at the following link:
+https://colab.research.google.com/drive/1OBtyfsKLiBDcPmVGWiS4xkoXFItlRcXb?usp=sharing
+
+
 # Contact
 
 If you have any questions regarding the code, paper, or trained model, please feel free to contact Lingrong Zhang at [zlr_zmm@163.com](mailto:zlr_zmm@163.com).
